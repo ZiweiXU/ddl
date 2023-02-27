@@ -3,7 +3,7 @@ description: Countdowns to top CV/NLP/ML/Robotics/AI conference deadlines
 author: Abhishek Das
 
 domain: "home.ziwei-xu.com"
-baseurl: "home.ziwei-xu.com/ddl"
+baseurl: ""
 
 twitter_hashtag: machinelearning
 github_username: paperswithcode
