@@ -1,13 +1,13 @@
 title: AI Conference Deadlines
-description: Countdowns to top CV/NLP/ML/Robotics/AI conference deadlines
-author: Abhishek Das
+description: Countdowns to top CV/NLP/ML/Robotics/AI conference deadliness
+author: Ziwei Xu
 
 domain: "home.ziwei-xu.com"
 baseurl: "/ddl"
 
 twitter_hashtag: machinelearning
-github_username: paperswithcode
-github_repo: ai-deadlines
+github_username: ZiweiXU
+github_repo: ddl
 
 markdown: kramdown
 ga_id:
